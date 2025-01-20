@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jawad Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0CC7j41vGj4mSMVdYTsDkD&ust=1737483690810000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDB9KL1hIsDFQAAAAAdAAAAABAE">
+
 - 👨‍💻 All of my projects are available at [https://github.com/jawad-ali11](https://github.com/jawad-ali11)
 
 - 💬 Ask me about **react,next.js,three.js**
