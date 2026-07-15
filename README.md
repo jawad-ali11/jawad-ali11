@@ -7,14 +7,6 @@ Frontend Developer • React.js • Next.js • JavaScript
 Building fast, modern and responsive web applications with React ecosystem.
 </p>
 
-<p align="center">
-<a href="https://github.com/jawad-ali11">
-<img src="https://komarev.com/ghpvc/?username=jawad-ali11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
-<a href="https://github.com/jawad-ali11?tab=followers">
-<img src="https://img.shields.io/github/followers/jawad-ali11?style=for-the-badge"/>
-</a>
-</p>
 
 ---
 
