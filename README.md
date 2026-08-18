@@ -124,7 +124,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadali11&theme=radical&bg_color=0D1117&color=6366F1&line=22D3EE&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawad-ali11&theme=radical&bg_color=0D1117&color=6366F1&line=22D3EE&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
