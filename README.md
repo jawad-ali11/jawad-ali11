@@ -119,8 +119,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadali11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadali11&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-ali11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-ali11&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE" width="48%"/>
 
 <br/>
 
