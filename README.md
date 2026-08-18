@@ -119,12 +119,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-ali11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-ali11&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawadali11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadali11&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawad-ali11&theme=redical&bg_color=0D1117&color=6366F1&line=22D3EE&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadali11&theme=radical&bg_color=0D1117&color=6366F1&line=22D3EE&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -151,7 +151,7 @@
 <a href="https://linkedin.com/in/syed-jawad-ali-shah">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/jawad-ali11">
+<a href="https://github.com/jawadali11">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:jawad.ali.cs26@gmail.com">
